@@ -5,7 +5,7 @@
 </p>
 
 # Alexandre Ferreira
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Auditor* at IRS</sub>
 
 As a experienced Data Scientist 
 
