@@ -7,7 +7,6 @@
 # Alexandre Ferreira
 <sub>*Auditor* at IRS</sub>
 
-As a experienced Data Scientist 
 
 **Background in:** Python, Machine Learning, Software Engineering.
 
