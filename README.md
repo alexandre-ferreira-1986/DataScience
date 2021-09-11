@@ -19,7 +19,7 @@
 ## Projetos:
 Veja os tutoriais publicados do ThinkingData:
 
-* **Análise Airbnb:** https://bit.ly/
+* **Análise Airbnb:** https://bityli.com/oNkub
 
 
 ---
