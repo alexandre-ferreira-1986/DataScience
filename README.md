@@ -20,7 +20,7 @@
 Veja os tutoriais publicados do ThinkingData:
 
 * **Análise Airbnb:** https://bityli.com/oNkub
-
+* **Análise COVID-19:** https://bityli.com/ZFhwYj
 
 ---
 
