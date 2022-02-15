@@ -21,7 +21,7 @@ Veja os tutoriais publicados do ThinkingData:
 
 * **Análise Airbnb:** https://bityli.com/oNkub
 * **Análise COVID-19:** https://bityli.com/ZFhwYj
-* **Análise de fraude em cartão de crédito:**https://bit.ly/3LNog4L
+* **Análise de fraude em cartão de crédito:** https://bit.ly/3LNog4L
 ---
 
 
