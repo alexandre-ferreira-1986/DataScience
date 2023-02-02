@@ -12,7 +12,7 @@
 
 **Links:**
 * [Blog](http://www.thinkingdata.com.br)
-* [LinkedIn](https://www.linkedin.com/in/alexandre-dos-santos-ferreira-2884651a4/)
+* [LinkedIn](https://www.linkedin.com/in/alexandre-ferreira01/)
 * [Medium](https://www.medium.com)
 
 
